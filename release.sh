@@ -1,3 +1,4 @@
+# How to deploy jar to github
 mvn deploy:deploy-file \
     -Dfile=./target/java-example-1.0-SNAPSHOT.jar \
     -DrepositoryId=github \
