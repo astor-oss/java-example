@@ -7,3 +7,6 @@ mvn deploy:deploy-file \
     -DartifactId=example \
     -Dversion=1.0-SNAPSHOT \
     -Dtoken=xxxxx
+
+
+# How to delopy docker image
